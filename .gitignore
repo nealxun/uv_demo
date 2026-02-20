@@ -11,3 +11,4 @@ wheels/
 
 # others
 .DS_Store
+data/

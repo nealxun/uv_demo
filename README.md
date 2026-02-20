@@ -1,7 +1,7 @@
 ## uv operations
 - `uv python list` — 列出uv支持的python版本
 - `uv init` — 创建工程
-- `uv python python pin 3.13` - use certain python version
+- `uv python pin 3.13` - use certain python version
 - `uv add --dev ipykernel` - add ipykernel to run jupyter notebook
 - `uv add numpy pandas` — 添加依赖
 - `uv sync` - sync with the updated pyproject.toml file
